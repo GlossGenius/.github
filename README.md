@@ -1,4 +1,6 @@
-<img src="https://cdn.prod.website-files.com/660ec14ac2987a20d8a83a34/6646686ca1d73fed0542b229_Union.webp" width="300">
+<p align="left"><img src="https://github.com/user-attachments/assets/b31e430e-0ab6-42e3-ba43-d96f5aa61d94" width="500" /></p>
+
+
 
 **Our Mission** – We empower entrepreneurs by growing their business and maximizing their income. Our complete set of automated appointment scheduling, payment processing, same-business-day transfer, client management, and built-in marketing solutions was designed to empower professionals to focus on being creators, not admins. We believe technology can help our members reach their full potential of entrepreneurship.
 
