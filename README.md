@@ -1,7 +1,5 @@
 <p align="left"><img src="https://github.com/user-attachments/assets/b31e430e-0ab6-42e3-ba43-d96f5aa61d94" width="500" /></p>
 
-
-
 **Our Mission** – We empower entrepreneurs by growing their business and maximizing their income. Our complete set of automated appointment scheduling, payment processing, same-business-day transfer, client management, and built-in marketing solutions was designed to empower professionals to focus on being creators, not admins. We believe technology can help our members reach their full potential of entrepreneurship.
 
 **[Work with Us](https://glossgenius.com/careers)** – **[Learn More](https://glossgenius.com/about)**
