@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/b31e430e-0ab6-42e3-ba43-d96f5aa61d94">
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/c65c40eb-d39c-4859-a087-654c3ee7772c">
-    <img src="https://github.com/user-attachments/assets/b31e430e-0ab6-42e3-ba43-d96f5aa61d94" width="500" />
+    <img src="https://github.com/user-attachments/assets/b31e430e-0ab6-42e3-ba43-d96f5aa61d94" width="500" alt="GlossGenius" />
   </picture>
 </p>
 
