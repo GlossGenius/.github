@@ -7,6 +7,8 @@
 
 **Our Mission** – We empower entrepreneurs by growing their business and maximizing their income. Our complete set of automated appointment scheduling, payment processing, same-business-day transfer, client management, and built-in marketing solutions was designed to empower professionals to focus on being creators, not admins. We believe technology can help our members reach their full potential of entrepreneurship.
 
+**Our Stacks** – We like to keep things simple. On the backend, we currently use Kotlin and TypeScript for our new services, our existing system is written in Ruby. For our web and mobile clients, we use Typescript, React, and React Native.
+
 **[Work with Us](https://glossgenius.com/careers)** – **[Learn More](https://glossgenius.com/about)**
 
 #
